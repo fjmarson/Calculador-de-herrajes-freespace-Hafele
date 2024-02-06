@@ -12,6 +12,7 @@ Uso:
     Altura (milímetros): Ingresa la altura de la puerta en milímetros.
     Ancho (milímetros): Ingresa el ancho de la puerta en milímetros.
     Haz clic en el botón "Calcular" para obtener el peso de la puerta y la recomendación del herraje.
+    Tambien, en la carpeta "dist\." se encuentra un archivo ejecutable: freespace.exe.
 
 Requisitos:
 
@@ -20,10 +21,10 @@ Requisitos:
 
 Instrucciones de Ejecución:
 
-    Descarga el archivo calculadora_herrajes.py y guárdalo en tu directorio local.
+    Descarga el archivo freespace.py y guárdalo en tu directorio local.
     Abre tu terminal o línea de comandos.
-    Navega al directorio donde guardaste el archivo calculadora_herrajes.py.
-    Ejecuta el programa escribiendo python calculadora_herrajes.py en tu terminal y presiona Enter.
+    Navega al directorio donde guardaste el archivo freespace.py.
+    Ejecuta el programa escribiendo python freespace.py en tu terminal y presiona Enter.
 
 Notas:
 
