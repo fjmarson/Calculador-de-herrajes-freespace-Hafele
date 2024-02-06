@@ -12,7 +12,7 @@ Uso:
     Altura (milímetros): Ingresa la altura de la puerta en milímetros.
     Ancho (milímetros): Ingresa el ancho de la puerta en milímetros.
     Haz clic en el botón "Calcular" para obtener el peso de la puerta y la recomendación del herraje.
-    Tambien, en la carpeta "dist\." se encuentra un archivo ejecutable: freespace.exe.
+    Tambien se agrega un archivo ejecutable: freespace.exe.
 
 Requisitos:
 
