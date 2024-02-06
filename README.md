@@ -30,4 +30,4 @@ Notas:
     Asegúrate de tener instalada la biblioteca tkinter, que suele venir preinstalada con Python.
     Este programa ha sido desarrollado y probado en Python 3.x. Puede no ser compatible con versiones anteriores de Python.
 
-¡Disfruta calculando el peso de tus placas y recibiendo recomendaciones de herrajes con esta calculadora simple pero útil!
+¡Disfruta calculando el peso de tus puertas y recibiendo recomendaciones de herrajes con esta calculadora simple pero útil!
